@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1>Hey its Monday , Ltes do somting in react</h1>
+            <h1>Hey its Monday , Ltes do somting in react by praveen and ashwin</h1>
          );
     }
 }
